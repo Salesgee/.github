@@ -15,6 +15,7 @@ const commitTypes = {
         'fix',
         'init',
         'perf',
+        'assets',
         'refactor',
         'revert',
         'security',
